@@ -16,14 +16,14 @@ I’m following a 12-month plan to become Solution Architect-ready.
 ---
 
 ## 🛠️ Skills
-- **Programming:** Java, JavaScript (Node.js), Python  
-- **Frontend:** React, Angular  
-- **Backend:** Spring Boot, Express.js  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Cloud:** AWS (EC2, S3, RDS, Lambda) [in-progress]  
-- **DevOps:** Jenkins, GitHub Actions, Docker  
-- **Tools:** Postman, Git, SAP integrations  
-- **System Design:** Microservices, REST APIs, event-driven patterns  
+
+**Backend:** Java, Python, SQL  
+**Frontend:** JavaScript, TypeScript, HTML/CSS  
+**Databases:** MySQL, PostgreSQL  
+**Frameworks & Tools:** Spring Boot, Postman, Jenkins, JIRA, Dynatrace, Robot Framework, Docker  
+**Cloud:** AWS (EC2, S3, RDS, Lambda) [in-progress]  
+**DevOps:** GitHub Actions, CI/CD pipelines  
+**System Design:** Microservices, REST APIs, event-driven patterns  
 
 ---
 
